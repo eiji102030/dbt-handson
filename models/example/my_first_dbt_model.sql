@@ -17,7 +17,6 @@ with source_data as (
     select null as id
 
 )
-
 select *
 
 
